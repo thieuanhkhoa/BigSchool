@@ -82,3 +82,5 @@ C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSch
 C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
 C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.KhoiTaoModel.resources
 C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\Administrator\Desktop\labBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
